@@ -1,0 +1,6 @@
+Subject,Average,Median,Minimum,Maximum,Pass_Rate,Below_40
+Maths,81.0,81.0,43,100,100.0,0
+Science,82.41,83.0,38,100,99.9,1
+English,81.67,82.0,42,100,100.0,0
+Social_Science,83.98,85.0,48,100,100.0,0
+Computer,85.91,87.0,48,100,100.0,0
